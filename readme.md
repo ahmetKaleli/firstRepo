@@ -4,3 +4,5 @@ updated from gitHub
 
 
 ikinci commit eklendi.
+
+üçüncü commit eklendi
